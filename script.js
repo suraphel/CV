@@ -271,7 +271,6 @@ target.forEach(img => lazyLoading.observe(img));
 
 //1 . get them to lay side by side
 const slider = document.querySelectorAll('.slide');
-
 const btnrit = document.querySelector('.slider__btn--right');
 const btnleft = document.querySelector('.slider__btn--left');
 
